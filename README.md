@@ -45,3 +45,6 @@ The design will incorporate Sharepoint Online into its end-user functionality to
 
 ### Design Evolution
 The design is intended to evolve and be refined over time. If there are significant deviations in the design, I will create a new branch and provide the updated version while preserving the previous.
+
+### WIP
+Early Prototype (https://xd.adobe.com/view/b5003151-c649-47c7-4cf5-6377e051459d-c331/?fullscreen)
